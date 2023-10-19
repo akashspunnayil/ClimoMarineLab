@@ -9,10 +9,10 @@ First and foremost, it is crucial to approach the handling of any research data,
 Python offers several powerful packages for loading and managing NetCDF format data. Notable libraries include `netCDF4`, which provides efficient access and manipulation of NetCDF files, and `xarray`, which simplifies the handling of multi-dimensional arrays, making it particularly useful for scientific datasets. Additionally, `h5netcdf` and `pydap` are valuable for accessing remote NetCDF data. These packages empower researchers and data scientists to load, analyze, and visualize complex scientific data stored in the NetCDF format, enhancing their capabilities in fields such as climate science, meteorology, and oceanography, among others.
 
 
-Data for this tutorial can download from here: <LINK>
+Data for this tutorial can download from https://downloads.psl.noaa.gov/Datasets/noaa.ersst.v5/
 The data is global SST from NOAA ERSST version 5 and detailed decription of data can be found in: https://psl.noaa.gov/data/gridded/data.noaa.ersst.v5.html
 
-We will be using Jupyter Notebooks to processes the data and visualisation. In the introductory class <LINK> you have learned to install JupyterLab and 'pip' to install pacakges in python. 
+We will be using Jupyter Notebooks to processes the data and visualisation. In the introductory class <http://theaireenproject.com/2023/10/10/dive-into-python-essential-tutorial-series-for-ocean-and-climate-researchers/> you have learned to install JupyterLab and 'pip' to install pacakges in python. 
 
 
 
