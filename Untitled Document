@@ -1,0 +1,33 @@
+import matplotlib as mpl
+import matplotlib.pyplot as plt
+import calendar
+
+# Set font size
+mpl.rcParams['font.size'] = 12
+
+# Set font family (e.g., 'serif', 'sans-serif', 'monospace')
+mpl.rcParams['font.family'] = 'sans-serif'
+
+# Create a figure and axis
+fig, ax = plt.subplots(figsize=(12, 6))
+
+# Plot the time series data.
+ax.plot(selected_location_sst, color='gold', linewidth=3)
+months = [calendar.month_abbr[i] for i in range(1, 13)]  # Abbreviated month names
+ax.set_xticks(range(len(months)))
+ax.set_xticklabels(months)
+ax.set_title(f'Sea Surface Temperature Monthly Climatology Time Series at Latitude {target_latitude}, Longitude {target_longitude}')
+ax.set_xlabel('Time')
+ax.set_ylabel('Sea Surface Temperature')
+
+# Set the background color to gray
+ax.set_facecolor('dimgray')
+
+# Display grid lines
+ax.grid()
+
+# Save the plot as an image (e.g., in JPG format).
+plt.savefig('co.jpg')
+
+plt.show()
+
