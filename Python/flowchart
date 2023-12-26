@@ -1,0 +1,12 @@
+digraph Flowchart {
+	Start [label=Start shape=ellipse]
+	Process1 [label="Process 1" shape=box]
+	Decision [label=Decision shape=diamond]
+	Process2 [label="Process 2" shape=box]
+	End [label=End shape=ellipse]
+	Start -> Process1
+	Process1 -> Decision
+	Decision -> Process2 [label=Yes]
+	Decision -> End [label=No]
+	Process2 -> End
+}

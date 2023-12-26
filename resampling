@@ -1,0 +1,13 @@
+## Resampling the data to high-resolution inorder to clip prefectly along the shapefile
+
+# !cdo remapbil,pr_high_res precip.mon.ltm.1991-2020-INDIA.nc precip.mon.ltm.1991-2020-INDIA_025deg.nc
+
+## pr_high_res description file
+# gridtype = lonlat
+# xsize    = 401  # hycom's xsize
+# ysize    = 241  # hycom's ysize
+# xfirst   = 30   # hycom's
+# xinc     = 0.25 # nemo's grid space
+# yfirst   = 0    # hycom's
+# yinc     = 0.25 # nemo's grid space
+

@@ -1,0 +1,7 @@
+gridtype = lonlat
+xsize    = 401  # hycom's xsize
+ysize    = 241  # hycom's ysize
+xfirst   = 30   # hycom's
+xinc     = 0.25 # nemo's grid space
+yfirst   = 0    # hycom's
+yinc     = 0.25 # nemo's grid space
