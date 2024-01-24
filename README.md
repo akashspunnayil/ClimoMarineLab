@@ -1,4 +1,5 @@
 # ClimoMarineLab
+![Local Image](CML_logo1.jpg)
 **Research Analytic Solutions** \
 *Your Phantom Collaborator in the Research*
 
