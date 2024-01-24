@@ -1,6 +1,6 @@
 # ClimoMarineLab
 *Research Analytic Solutions*
-#### *Your Phantom Collaborator in the Research*
+*Your Phantom Collaborator in the Research*
 
 Embark on a research journey with **ClimoMarineLab**, your phantom research collaborator in the realm of Maine-Atmosphere-Climate Change. With over a decade of honed expertise, our teams' core strengths lie in scientific programming, analytical finesse, and adept management of atmospheric-oceanographic data.
 
