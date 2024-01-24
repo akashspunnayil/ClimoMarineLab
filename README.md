@@ -22,4 +22,4 @@ Embark on a research journey with **ClimoMarineLab**, your phantom research coll
 
 **Marine and Geospatial Data Solutions:** Tailored solutions for mapping, pixel extractions, feature identification, EOF analysis, remote sensing reflectance, ocean color analysis, and more.
 
-Discover the depth of our capabilities as we navigate the complexities of marine and atmospheric sciences, providing bespoke solutions that redefine the contours of research excellence.
+*Discover the depth of our capabilities as we navigate the complexities of marine and atmospheric sciences, providing bespoke solutions that redefine the contours of research excellence.*
