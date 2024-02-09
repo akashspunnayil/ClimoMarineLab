@@ -7,7 +7,7 @@ Contact us: *climomarinelab@gmail.com*
 
 Embark on a research journey with **ClimoMarineLab**, your phantom research collaborator in the realm of Maine-Atmosphere-Climate Change. With over a decade of honed expertise, our teams' core strengths lie in scientific programming, analytical finesse, and adept management of atmospheric-oceanographic data.
 
-# Services and Solutions
+# Skills
 
 **Data Science Solutions:** We deliver comprehensive solutions for **data processing, analysis, and impactful visualization**, empowering informed decision-making.
 
